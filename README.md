@@ -66,6 +66,8 @@ http://login:password@ip:port
 git clone https://github.com/onel0ck/fantasy-manager.git
 cd fantasy-manager
 ```
+УСТАНОВИТЕ:
+![image](https://github.com/user-attachments/assets/0bae5557-c998-4fdb-84dc-4d4066c2ae63)
 
 2. Обновите config.json под ваши настройки
 3. Добавьте прокси в proxys.txt
